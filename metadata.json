@@ -1,0 +1,7 @@
+{
+  "name": "المساعد",
+  "description": "تطبيق المساعد لمستر محمود عوده لإدارة المجموعات والطلاب، وتصدير تقارير الأداء الشهرية بصيغ CSV و Word و PDF والنسخ الاحتياطي والمزامنة السحابية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

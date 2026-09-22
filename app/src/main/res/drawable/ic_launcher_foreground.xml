@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.6"
+        android:scaleY="1.6"
+        android:translateX="15.6"
+        android:translateY="15.6">
+        <!-- Open Book Left Page -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M16,19.5 C19.3,18.4 23.3,18 27,18 C30.7,18 34.7,18.4 38,19.5 C41.3,18.4 45.3,18 49,18 C52.7,18 56.7,18.4 60,19.5 L60,40.5 C56.7,39.4 52.7,39 49,39 C45.3,39 41.3,39.4 38,40.5 C34.7,39.4 30.7,39 27,39 C23.3,39 19.3,39.4 16,40.5 Z" />
+        <!-- Inner page white contrast -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M18,22 C20.8,21.2 24,20.8 27,20.8 C30,20.8 33.2,21.2 36,22 L36,37.5 C33.2,36.7 30,36.3 27,36.3 C24,36.3 20.8,36.7 18,37.5 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M40,22 C42.8,21.2 46,20.8 49,20.8 C52,20.8 55.2,21.2 58,22 L58,37.5 C55.2,36.7 52,36.3 49,36.3 C46,36.3 42.8,36.7 40,37.5 Z" />
+        <!-- Feather / Quill / Pen diagonal -->
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M38,16 L40,16 L40,42 L38,42 Z" />
+    </group>
+</vector>
+
